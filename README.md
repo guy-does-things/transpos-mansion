@@ -14,6 +14,6 @@ if on desktop you need to type the command "folder", then a file explorer window
 [to export](https://github.com/nesbox/TIC-80/wiki/Console), altough it probably dosen't work on the web build,
 
 to play the game just load it using
-[to export](https://github.com/nesbox/TIC-80/wiki/Console) and type run
+[the load command](https://github.com/nesbox/TIC-80/wiki/Console) and type [the run command](https://github.com/nesbox/TIC-80/wiki/Console) 
 
 
